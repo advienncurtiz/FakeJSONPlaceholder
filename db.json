@@ -5,5 +5,19 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+
+  "game_list": [
+  	{ 
+  		"id": "01c45bc5-b23c-4d05-857c-b8281afbb1ee", 
+  		"title": "Final Fantasy 7 Remake", 
+  		"description": "One of the best" 
+  	}, 
+
+  	{ 
+  		"id": "29dc4bc1-3fe8-4d15-854b-fed65cd75934", 
+  		"title": "Super Mario Odyssey", 
+  		"description": "Best Mario game ever for Nintend Switch" 
+  	}
+  ]
 }
